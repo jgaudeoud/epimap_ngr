@@ -1,2 +1,1 @@
-# epimap_ngr
-test
+# epiMap
